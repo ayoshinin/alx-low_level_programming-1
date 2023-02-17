@@ -4,7 +4,7 @@
 
 
 /**
- * main - Entry point
+ * main - Entry point of the function
  *
  * Description: print value of n satus; zero, positive or negative
  *
